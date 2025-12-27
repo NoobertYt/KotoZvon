@@ -1,0 +1,9 @@
+
+{
+  "name": "KotoZvon",
+  "description": "Приложение для видеозвонков с друзьями в стиле Telegram. Выбирай котика и общайся!",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
